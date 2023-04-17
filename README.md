@@ -1,3 +1,3 @@
 # Loop Crypto
 
-[![Loop Crypto]([image.png](https://github.com/LoopCrypto/loop-assets/blob/main/LoopLogo.png))](https://loopcrypto.xyz)
+[![Loop Crypto]([image.png](https://loop-entity-logos.s3.us-east-2.amazonaws.com/LoopCrypto.png))](https://loopcrypto.xyz)
