@@ -1,6 +1,6 @@
 # ✅ Closes
 
--   [LC-](https://loopcrypto.atlassian.net/browse/LC-)
+-   LC-
 
 # 🌞 Highlights
 
@@ -10,4 +10,4 @@
 
 -
 
-# 📸 Screenshots
+# 📸 Support
