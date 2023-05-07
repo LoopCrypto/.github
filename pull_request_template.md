@@ -1,13 +1,17 @@
-# ✅ Closes
+# ✅ Closes ticket(s)
 
 -   LC-
 
-# 🌞 Highlights
+# 🌞 PR highlights
 
--
+- [List the main points this PR resovles]
 
-# 📑 Notes
+# 📑 Reviewer notes
 
--
+- [Anything worth noting for review or posterity]
 
-# 📸 Support
+# 📸 Supporting media
+
+| ![Image caption](https://loop-entity-logos.s3.us-east-2.amazonaws.com/loop-crypto-long.svg) | 
+|:--:| 
+| Image caption |
