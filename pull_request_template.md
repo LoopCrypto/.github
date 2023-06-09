@@ -4,7 +4,7 @@
 
 # 🌞 PR highlights
 
-- [List the main points this PR resovles]
+- [List the main points this PR resolves]
 
 # 📑 Reviewer notes
 
@@ -13,5 +13,5 @@
 # 📸 Supporting media
 
 | ![Image caption](https://loop-entity-logos.s3.us-east-2.amazonaws.com/loop-crypto-long.svg) | 
-|:--:| 
+|:--| 
 | Image caption |
