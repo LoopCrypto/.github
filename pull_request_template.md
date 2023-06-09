@@ -2,13 +2,13 @@
 
 -   LC-
 
-# 🌞 PR highlights
+# 🌞 Tasks completed
 
 - [List the main points this PR resolves]
 
 # 📑 Reviewer notes
 
-- [Anything worth noting for review or posterity]
+- [Anything worth noting for the reviewer, or for posterity]
 
 # 📸 Supporting media
 
