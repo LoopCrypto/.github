@@ -16,6 +16,6 @@
 |:--| 
 | Image caption |
 
-| <video src="https://youtu.be/fCfhULLJAWQ"></video> | 
+| <video src="video-url"></video> | 
 |:--| 
 | Video caption |
