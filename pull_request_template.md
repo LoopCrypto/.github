@@ -7,7 +7,7 @@
 
 1. [ ] 
 
-# 📑 Reviewer notes
+# 📑 Notes for reviewer
 <!-- Anything worth noting for the reviewer (or for posterity) -->
 
 - 
