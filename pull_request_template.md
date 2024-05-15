@@ -1,21 +1,23 @@
-# ✅ Closes ticket(s)
+# ✅ Tickets / References
 
--   LC-
+- LC-
 
 # 🌞 Tasks completed
+<!-- Required tasks completed that the reviewer can "check" when confirmed -->
 
-- [ ] A required task that was completed that the reviewer can "check" when confirmed complete
+1. [ ] 
 
 # 📑 Reviewer notes
+<!-- Anything worth noting for the reviewer (or for posterity) -->
 
-- Anything worth noting for the reviewer (or for posterity)
+- 
 
 # 📸 Supporting media
 
-| ![Add an image](https://loop-entity-logos.s3.us-east-2.amazonaws.com/loop-crypto-long.svg) | 
-|:--| 
-| Image caption |
+| Caption               |
+| :-------------------- |
+| ![](http://image-url) |
 
-| <video src="video-url"></video> | 
-|:--| 
-| Video caption |
+| Caption                                              |
+| :--------------------------------------------------- |
+| <video src="http://video-url" muted="false"></video> |
